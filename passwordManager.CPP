@@ -108,7 +108,7 @@ void accountMatch(std::vector<Account>& acc_vec, std::string str){
             }
     }
     if(flag == 0){
-        std::cout<< "NO Account Matched:( " <<std::endl;
+        std::cerr<< "NO Account Matched :( \n";
     }
     
 }
