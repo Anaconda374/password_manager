@@ -3,7 +3,7 @@
 
 There following shortcoming needs to be fixed:
   
-NO UI
-NO search algorithm
-NO consecutive operations 
+'<p>NO UI;</p>'
+ NO search algorithm;
+* NO consecutive operations;
 
