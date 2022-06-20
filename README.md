@@ -4,11 +4,11 @@
  A C++ console program for storing and searching passwords. 
  using the same '.txt' file to store and search(by passing the siteName) the passwords.   
   
- Update:
- 1. Support continuous operations. 
+__Update:__
+1. Support continuous operations. 
 
 
-'<p>There following shortcoming needs to be fixed: </p>'
+**/__There following shortcoming needs to be fixed:**
 1. NO UI;
 2. NO search algorithm;
 
