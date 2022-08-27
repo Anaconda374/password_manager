@@ -10,6 +10,6 @@ __Update:__
 
 **There following shortcoming needs to be fixed:**
 1. NO UI;
-2. NO search algorithm;
+2. NO pretty efficient search algorithm;
 
 
